@@ -3,12 +3,10 @@
 [![RimWorld Version](https://img.shields.io/badge/RimWorld-1.6+-blue.svg)](https://rimworldgame.com/)
 [![.NET](https://img.shields.io/badge/.NET-4.7.2-green.svg)](https://dotnet.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Release](https://img.shields.io/github/v/release/Mvircs1/RimAI?include_prereleases)](https://github.com/Mvircs1/RimAI/releases)
-[![GitHub Stars](https://img.shields.io/github/stars/Mvircs1/RimAI?style=social)](https://github.com/Mvircs1/RimAI/stargazers)
 
 > Transform your RimWorld experience with an intelligent storyteller that creates dynamic, personalized events using artificial intelligence!
 
-RimAI is a revolutionary mod that replaces RimWorld's traditional storyteller system with advanced AI capable of generating contextual narrative events based on your colony's current state. Featuring narrative arcs, dev mode chat, intelligent event generation, and a professional logging system for debugging!
+RimAI is a revolutionary mod that replaces RimWorld's traditional storyteller system with advanced AI capable of generating contextual narrative events based on your colony's current state. Featuring narrative arcs, dev mode chat, and intelligent event generation!
 
 ## ✨ Features
 

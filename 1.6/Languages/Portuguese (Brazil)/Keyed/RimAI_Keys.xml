@@ -20,6 +20,37 @@
   <RimAI_Settings_GetAPIKey_OpenRouter>Obter API Key Gratuita (OpenRouter)</RimAI_Settings_GetAPIKey_OpenRouter>
   <RimAI_Settings_GetAPIKey_OpenAI>Obter API Key (OpenAI)</RimAI_Settings_GetAPIKey_OpenAI>
   <RimAI_Settings_GetAPIKey_Anthropic>Obter API Key (Anthropic)</RimAI_Settings_GetAPIKey_Anthropic>
+  <RimAI_Settings_GetAPIKey_GoogleStudio>Obter API Key (Google Studio)</RimAI_Settings_GetAPIKey_GoogleStudio>
+  <RimAI_Settings_GetAPIKey_NanoGPT>Obter API Key (NanoGPT)</RimAI_Settings_GetAPIKey_NanoGPT>
+  <RimAI_Settings_GetAPIKey_Groq>Obter API Key (Groq)</RimAI_Settings_GetAPIKey_Groq>
+  <RimAI_Settings_GetAPIKey_Custom>Obter API Key Personalizada</RimAI_Settings_GetAPIKey_Custom>
+  <RimAI_Settings_CustomURL>URL da API Personalizada:</RimAI_Settings_CustomURL>
+  <RimAI_Settings_ValidateAPIKey>Validar API Key</RimAI_Settings_ValidateAPIKey>
+  <RimAI_Settings_RunTests>Executar Testes</RimAI_Settings_RunTests>
+  <RimAI_Settings_TestArcs>Testar Geração de Arcos</RimAI_Settings_TestArcs>
+  <RimAI_Settings_TestingConnection>Testando conexão com API {0}...</RimAI_Settings_TestingConnection>
+  <RimAI_Settings_ConnectionError>[ERRO] Erro de conexão: {0}</RimAI_Settings_ConnectionError>
+  <RimAI_Settings_TestAPIError>[ERRO] Erro no teste da API: {0}</RimAI_Settings_TestAPIError>
+  <RimAI_Settings_RunningTests>Executando testes...</RimAI_Settings_RunningTests>
+  <RimAI_Settings_TestsExecuted>Testes executados com sucesso</RimAI_Settings_TestsExecuted>
+  <RimAI_Settings_TestError>[ERRO] Falha nos testes: {0}</RimAI_Settings_TestError>
+  <RimAI_Settings_TestingArcs>Testando geração de arcos...</RimAI_Settings_TestingArcs>
+  <RimAI_Settings_ArcGenerated>Arco gerado: {0} ({1})</RimAI_Settings_ArcGenerated>
+  <RimAI_Settings_ArcInvalid>Arco gerado é inválido</RimAI_Settings_ArcInvalid>
+  <RimAI_Settings_ArcGenerationError>[ERRO] Falha na geração de arco: {0}</RimAI_Settings_ArcGenerationError>
+  <RimAI_Settings_ArcGenerationException>[ERRO] Exceção na geração de arco: {0}</RimAI_Settings_ArcGenerationException>
+  <RimAI_Settings_ConfigureAPIKeyFirst>Configure uma API Key primeiro!</RimAI_Settings_ConfigureAPIKeyFirst>
+  <RimAI_Settings_APIKeyValid>API Key válida</RimAI_Settings_APIKeyValid>
+  <RimAI_Settings_InvalidAPIKey>API Key inválida para {0}</RimAI_Settings_InvalidAPIKey>
+  <RimAI_Settings_PersistCache>Persistir Cache nos Saves</RimAI_Settings_PersistCache>
+  <RimAI_Settings_UseDynamicCreativity>Usar Criatividade Dinâmica</RimAI_Settings_UseDynamicCreativity>
+  <RimAI_Settings_CreativityLevel>Nível de Criatividade: {0:F1}</RimAI_Settings_CreativityLevel>
+  <RimAI_Settings_CreativityRange>0.3 = Conservador | 1.0 = Caótico</RimAI_Settings_CreativityRange>
+  <RimAI_Settings_PersonalityTemp>Criatividade baseada na personalidade: {0}</RimAI_Settings_PersonalityTemp>
+  <RimAI_Creativity_Sadistic>Baixa (0.45)</RimAI_Creativity_Sadistic>
+  <RimAI_Creativity_Protective>Baixa (0.45)</RimAI_Creativity_Protective>
+  <RimAI_Creativity_Chaotic>Alta (0.85)</RimAI_Creativity_Chaotic>
+  <RimAI_Creativity_Balanced>Média (0.7)</RimAI_Creativity_Balanced>
   <RimAI_Settings_MinInterval>Intervalo Mínimo entre Eventos: {0:F1} dias</RimAI_Settings_MinInterval>
   <RimAI_Settings_MaxInterval>Intervalo Máximo entre Eventos: {0:F1} dias</RimAI_Settings_MaxInterval>
   <RimAI_Settings_AiInfluence>Influência da AI: {0:F0}%</RimAI_Settings_AiInfluence>
